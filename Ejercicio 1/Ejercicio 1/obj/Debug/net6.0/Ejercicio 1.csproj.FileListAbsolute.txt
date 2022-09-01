@@ -1,0 +1,15 @@
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0\Ejercicio 1.exe
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0\Ejercicio 1.deps.json
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0\Ejercicio 1.runtimeconfig.json
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0\Ejercicio 1.dll
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0\Ejercicio 1.pdb
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\Ejercicio 1.csproj.AssemblyReference.cache
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\Ejercicio 1.AssemblyInfoInputs.cache
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\Ejercicio 1.AssemblyInfo.cs
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\Ejercicio 1.dll
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\refint\Ejercicio 1.dll
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\Ejercicio 1.pdb
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\Ejercicio 1.genruntimeconfig.cache
+D:\Palomeque 7º\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0\ref\Ejercicio 1.dll
